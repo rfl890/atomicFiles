@@ -17,3 +17,5 @@
 47f7185c-5a27-4ab5-82e8-98e7e20c85b6 https://github.com/cornos/atomicFiles/raw/master/misterxcape.png
 # Eren.
 ade36e5c-cee6-40f9-b534-1b3d8365d48e https://github.com/cornos/atomicFiles/raw/master/erenCape.png
+# Dumbass
+e891a488-4c6a-4a8b-8891-fba019f5e67b https://cdn.discordapp.com/attachments/889930668828688425/908807139760410644/shit.png
